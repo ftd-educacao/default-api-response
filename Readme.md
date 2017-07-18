@@ -44,7 +44,7 @@ And call the provider inside your Laravel **/config/app.php** file:
         /*
          * FTD Default API Response
          */
-         FTD\DefaultAPIResponse\DefaultAPIResponseServiceProvider::class,
+         FTD\DefaultApiResponse\DefaultApiResponseServiceProvider::class,
     ],
 ```
 
